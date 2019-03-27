@@ -1,6 +1,6 @@
 <?php
 /**
- * Application entry point
+ * Application entry point xxxxxxxxxxxxx
  *
  * Example - run a particular store or website:
  * --------------------------------------------
