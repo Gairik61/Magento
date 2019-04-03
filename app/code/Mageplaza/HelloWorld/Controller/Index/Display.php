@@ -1,7 +1,7 @@
 <?php
 namespace Mageplaza\HelloWorld\Controller\Index;
-use \Magento\Framework\App\Action\Context;
-use \Magento\Framework\View\Result\PageFactory;
+use Magento\Framework\App\Action\Context;
+use Magento\Framework\View\Result\PageFactory;
 
 class Display extends \Magento\Framework\App\Action\Action
 {
