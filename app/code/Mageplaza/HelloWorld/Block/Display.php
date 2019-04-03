@@ -10,6 +10,6 @@ class Display extends \Magento\Framework\View\Element\Template
 	}
 	public function sayHello()
 	{
-		return __('Tryouts');
+		return __('Hello World');
 	}
 }
